@@ -25,7 +25,3 @@ Pollen's low-level design tokens can be used to build any project. They're easy 
 <p align="center">
   <img src="https://i.imgur.com/ZNfrTAz.jpg" width="750">
 </p>
-
-## Documentation
-
-Read the full documentation at **[pollen.style](https://www.pollen.style)**
